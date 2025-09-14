@@ -1,0 +1,75 @@
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - file.tags
+      - file.folder
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.ctime: 180
+      file.mtime: 177
+  - type: table
+    name: Recipe
+    filters:
+      and:
+        - file.folder.startsWith("Recipe")
+    order:
+      - file.name
+      - file.tags
+      - Cost
+      - Day
+      - Time
+      - Ingredients
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.tags: 116
+      file.mtime: 177
+      file.ctime: 180
+  - type: table
+    name: Ingredients
+    filters:
+      and:
+        - file.folder.startsWith("Ingredients")
+    order:
+      - file.name
+      - Stock
+      - BoughtCost
+      - BoughtSize
+      - Cost
+      - CostPerMeal
+      - PortionSize
+      - PotentialMeals
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: BoughtCost
+        direction: ASC
+    columnSize:
+      file.name: 234
+      note.Cost: 207
+      file.ctime: 180
+      file.mtime: 177
+  - type: table
+    name: Ingredients Simple
+    filters:
+      and:
+        - file.folder.startsWith("Ingredients")
+    order:
+      - file.name
+    sort:
+      - property: BoughtCost
+        direction: ASC
+    columnSize:
+      file.name: 234
+      note.Cost: 207
+      file.ctime: 180
+      file.mtime: 177

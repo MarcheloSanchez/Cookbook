@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "307f961477b5706b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93a030fd917bc0f",
+        "type": "tabs",
+        "dimension": 56.10749185667753,
+        "children": [
+          {
+            "id": "7d6abcbec84dad11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Cibule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cibule"
+            }
+          },
+          {
+            "id": "d0022c5c9325f38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chybějící Ingredients to ADD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chybějící Ingredients to ADD"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f3eb84e2fc611f54",
+        "type": "tabs",
+        "dimension": 43.89250814332247,
+        "children": [
+          {
+            "id": "cef2a9c683dca891",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Overview of Data.base",
+                "viewName": "Ingredients Simple"
+              },
+              "icon": "lucide-table",
+              "title": "Overview of Data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f90d2dfa7957d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8a79acb14df07a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c87c098dc629f4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1af699c815dc064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Ingredients/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "66140c8a606d57cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d64cd5bf478cdd42",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eed73122c650ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ab29d4e7de50ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "53c5b1a5ec0dadfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a473c5aa08b8a7a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad230f529a0021c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0022c5c9325f38a",
+  "lastOpenFiles": [
+    "FoodPlan/Příklady od autora/Ingredients/Banana.md",
+    "FoodPlan/Příklady od autora/Ingredients/Apple.md",
+    "FoodPlan/Příklady od autora/Ingredients/Bread.md",
+    "FoodPlan/Příklady od autora/Ingredients/Chicken.md",
+    "FoodPlan/Příklady od autora/Ingredients/Whole Milk.md",
+    "FoodPlan/Příklady od autora/Ingredients/Vanilla Ice Cream.md",
+    "FoodPlan/Příklady od autora/Ingredients/Salt + Vinegar Crisps.md",
+    "FoodPlan/Příklady od autora/Ingredients/Salt.md",
+    "FoodPlan/Příklady od autora/Ingredients/Potato.md",
+    "FoodPlan/Příklady od autora/Ingredients/Popcorn Kernels.md",
+    "FoodPlan/Příklady od autora/Ingredients/Butter.md",
+    "FoodPlan/Seznam jídel rozdělený.md",
+    "🍪Jídelní plán.canvas",
+    "🍪Meal Plan.canvas",
+    "ADD.md",
+    "Nápady co jíst.canvas",
+    "Chybějící Ingredients to ADD.md",
+    "Ingredients/Cibule.md",
+    "Overview of Data.base",
+    "+/Untitled 1.md",
+    "Ingredients/Celer.md",
+    "Ingredients/Bobkový list.md",
+    "Ingredients/Avokádo.md",
+    "Ingredients/Banán.md",
+    "Manual for Food Plan - Můza.md",
+    "Recipe/Domácí jogurtová pizza.md",
+    "Atlas/Nástroje/Archive/dataview.md",
+    "Atlas/Nástroje/Archive",
+    "dataview_ingredients.pdf",
+    "Shopping list.md",
+    "Shopping list1.md",
+    "Recipe/Čočka.md",
+    "Atlas/Obrázky/IMG_0308.jpeg",
+    "Atlas/Obrázky/IMG_0301.png",
+    "Atlas/Obrázky/IMG_0307 1.jpeg",
+    "Atlas/Obrázky/IMG_0307.jpeg",
+    "Atlas/Obrázky/IMG_0306.jpeg",
+    "fill_and_calculate_ingredients.py",
+    "Nepotvrzeno 500282.crdownload",
+    "calculate_meal_costs.py",
+    "Nepotvrzeno 382139.crdownload",
+    "dataview.pdf",
+    "update_ingredient_costs_simple.py",
+    "update_ingredient_costs.py",
+    "Atlas/Obrázky/image 23.jpg",
+    "Atlas/Obrázky/image 1.jpg",
+    "Atlas/Obrázky/image 3.jpg",
+    "Atlas/Obrázky/image 5.jpg",
+    "Atlas/Obrázky/image 9.jpg"
+  ]
+}
