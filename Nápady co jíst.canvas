@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"17208a207400e889","type":"text","text":"# Snídaně\n\n```dataview\nLIST\nFROM #snidane\n```\n\n\n","x":1080,"y":1041,"width":320,"height":1960},
+		{"id":"6494ee0ec7f49e91","type":"text","text":"# Obědy\n```dataview\nLIST\nFROM #obed\n```\n","x":1480,"y":1041,"width":320,"height":1960},
+		{"id":"76c0b5744a408fe6","type":"text","text":"# Večeře\n```dataview\nLIST\nFROM #vecere\n```\n","x":1880,"y":1041,"width":250,"height":1960},
+		{"id":"8767571f04b7f450","x":1080,"y":780,"width":360,"height":200,"type":"text","text":"PRAVDĚPODOBNĚ TO ROZDĚLIT NA:\n\nZDRAVÉ A NEZDRAVÉ\n\nRYCHLÉ ATD\n\nVYZKOUŠENÉ A NEVYZKOUŠENÉ"}
+	],
+	"edges":[]
+}
